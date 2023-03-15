@@ -20,11 +20,12 @@ referência: https://www.youtube.com/watch?v=TsaLQAetPLU&t=7s
 ## Bem-vindo(a) ao perfil da Tay ^ - ^
 🌱  Profissional da TI e Estudante 👩‍💻 GitHub novo 
 <img align="right" alt="Tay-gif" height="80" style="border-radius:50px;" src="https://i.pinimg.com/originals/95/c1/0b/95c10ba02011d6474b609c9b5adcc411.gif">
+ 
  <div>
  <div>
    <a href="https://github.com/TaynaraCR">
-   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=TaynaraCR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynaraCR&layout=compact&langs_count=6&theme=dracula"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TaynaraCR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynaraCR&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
