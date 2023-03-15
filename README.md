@@ -23,9 +23,8 @@ referência: https://www.youtube.com/watch?v=TsaLQAetPLU&t=7s
  <div>
  <div>
    <a href="https://github.com/TaynaraCR">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaynaraCR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynaraCR&layout=compact&langs_count=6&theme=dracula"/>
-    
+   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=TaynaraCR&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynaraCR&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -39,7 +38,6 @@ referência: https://www.youtube.com/watch?v=TsaLQAetPLU&t=7s
   <img align="center" alt="BASH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
   <img align="right" alt="Tay-gif-2" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/6b/ae/d3/6baed3605ec00d21b53fd9d9095d83fc.gif">
- 
 </div>
 </div>
  
