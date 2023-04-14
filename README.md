@@ -18,7 +18,7 @@ referência: https://www.youtube.com/watch?v=TsaLQAetPLU&t=7s
  
 
 ## Bem-vindo(a) ao perfil da Tay ^ - ^
-🌱  Profissional da TI e Estudante 👩‍💻 GitHub novo 
+🌱  Profissional da TI e Estudante 👩‍💻 GitHub novo (PS.: Estou organizando meus projetos para por aqui :P)
 <img align="right" alt="Tay-gif" height="80" style="border-radius:50px;" src="https://i.pinimg.com/originals/95/c1/0b/95c10ba02011d6474b609c9b5adcc411.gif"><br><br><br>
  
  <div>
